@@ -1,5 +1,5 @@
 
-<h1 align="center">Readme generator </h1>
+<h1 align="center">Readme Generator </h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
@@ -18,9 +18,9 @@
 <br />
 This application is covered by the MIT license. 
 ## Contributing
- n/a
+ N/A
 <br />
-Find me on GitHub: [raghadmalallah](https://github.com/raghadmalallah)<br />
+Find me on GitHub: [RAGHADMALALLAH](https://github.com/RAGHADMALALLAH)<br />
 <br />
  Email me with any questions: raghadmalallah@gmail.com<br /><br />
     
