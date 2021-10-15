@@ -23,4 +23,4 @@ This application is covered by the MIT license.
 Find me on GitHub: [RAGHADMALALLAH](https://github.com/RAGHADMALALLAH)<br />
 <br />
  Email me with any questions: raghadmalallah@gmail.com<br /><br />
-    
+ ![screenshot for the terminal generating the readmefile](https://github.com/Raghadmalallah/readme-generator/blob/97a26af8797a7a0a9425deab7c4c946abbbdf74a/assets/Untitled_%20Oct%2014,%202021%2011_12%20PM.gif)  
