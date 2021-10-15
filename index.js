@@ -54,22 +54,17 @@ function promptUser(){
     ]);
 } 
 
-
-  init();  
-
-  inquirer.prompt(questions).then((answers) => {
-
-    const readmeContents = generateReadme(answers)
-  
-    fs.writeFile("README.md", readmeContents, (err) => {
-      if (err) {
+  async function init() {
+    try {
+        // Ask user questions and generate responses
+        const answers = await promptUser();
+        const generateContent = generateReadme(answers);
+        // Write new README.md to dist directory
+        await writeFileAsync('README.md', generateContent);
+        console.log('Successfully wrote to README.md');
+    }   catch(err) {
         console.log(err);
-        console.log(
-          "Uh oh. Something went wrong. Could not create README.md. Scroll up for details."
-        );
-        return process.exit(1);
-      }
-      console.log("Success! Created README.md");
-    });
-  });
-  
+    }
+  }
+   
+  init();  
