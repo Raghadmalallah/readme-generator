@@ -2,8 +2,8 @@
 <h1 align="center">Readme Generator </h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-## Description
- homework assaigment
+## Description  
+ homework assaigment / [readme generator](https://raghadmalallah.github.io/readme-generator/)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
